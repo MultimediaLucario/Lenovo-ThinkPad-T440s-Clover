@@ -1,1 +1,1 @@
-# Lenovo ThinkPad T440S
+# Lenovo ThinkPad T440s (Clover Version)
